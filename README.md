@@ -1,4 +1,4 @@
-# API Super Mario Bros.
+# API Super Mario Bros. ![pngegg (2)](https://github.com/oliveiratales/api-mario-bros/assets/118945743/268e6f68-c03a-4917-b79b-d93fe2ec6706)
 
 API para fornecer informações sobre os principais jogos de plataforma da franquia Super Mario Bros, com imagens, vendas, data de lançamento, imagens de gameplay e mais, incluindo também dois filtros (console e ano). Criei essa API para fins de estudos, portanto trata-se de um projeto simples, com poucos end-points e único método (GET). 
 
