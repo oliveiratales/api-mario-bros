@@ -4,9 +4,10 @@ API para fornecer informações sobre os principais jogos de plataforma da franq
 
 Espero que goste e lhe sirva para seus projetos Nintendistas 😁
 
-## Endpoints Disponíveis
 
-### Listar Jogos
+## Endpoints Disponíveis ![pngegg (3)](https://github.com/oliveiratales/api-mario-bros/assets/118945743/f0c37f9d-8055-438f-9b7e-834f96d32e4a)
+
+### Listar Jogos ![pngegg (5)](https://github.com/oliveiratales/api-mario-bros/assets/118945743/8c238049-1ade-4dc8-8d96-9aa82c7b92c5)
 
 **Endpoint:** `/api/jogos`
 
@@ -22,7 +23,7 @@ Exemplo de Uso:
 ![image](https://github.com/oliveiratales/api-mario-bros/assets/118945743/f8646030-c634-4923-9e89-1682d1f34517)
 ![image](https://github.com/oliveiratales/api-mario-bros/assets/118945743/5706f2d3-4d4c-464b-89fd-cfddd7ea3bdc)
 
-### Detalhes do Jogo
+### Detalhes do Jogo ![pngegg (5)](https://github.com/oliveiratales/api-mario-bros/assets/118945743/97c113ce-d04e-4c4f-a2cb-7025b3fa7ece)
 
 **Endpoint:** `/api/jogos/{id}`
 
@@ -36,7 +37,7 @@ Exemplo de Uso:
 
 ![image](https://github.com/oliveiratales/api-mario-bros/assets/118945743/6ddd4183-659f-4c58-ad0d-2fe519ecc49d)
 
-## Campos de Resposta
+## Campos de Resposta ![pngegg (3)](https://github.com/oliveiratales/api-mario-bros/assets/118945743/3ec50b14-cdc2-40b1-bd83-f352120b7b0b)
 
 - `id`: ID do jogo.
 - `nome`: Nome do jogo.
@@ -50,9 +51,9 @@ Exemplo de Uso:
 - `gameplay2`: URL de uma imagem de gameplay.
 - `gameplay3`: URL de uma imagem de gameplay.
 
-## Exemplos de Respostas
+## Exemplos de Respostas ![pngegg (3)](https://github.com/oliveiratales/api-mario-bros/assets/118945743/c04e73f4-1e1a-47c0-937e-8f322bf88007)
 
-### Listar Jogos
+### Listar Jogos ![pngegg (5)](https://github.com/oliveiratales/api-mario-bros/assets/118945743/0b6e34b4-2a5c-4928-9f34-4b4a199f62e7)
 
 ```json
 [
@@ -74,7 +75,7 @@ Exemplo de Uso:
 
 ```
 
-### Detalhes do Jogo
+### Detalhes do Jogo ![pngegg (5)](https://github.com/oliveiratales/api-mario-bros/assets/118945743/4efeb427-b2b0-412a-9565-b3e66935567d)
 
 ```json
 {
