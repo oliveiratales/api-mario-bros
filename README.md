@@ -1,3 +1,5 @@
+![pngwing com (5)](https://github.com/oliveiratales/api-mario-bros/assets/118945743/79c7d506-6351-4bde-8dd7-2abeecafada0)
+![pngwing com (4)](https://github.com/oliveiratales/api-mario-bros/assets/118945743/0d01abec-c9bb-4f58-8859-4ac10cdb7192)
 # API Super Mario Bros. ![pngegg (2)](https://github.com/oliveiratales/api-mario-bros/assets/118945743/268e6f68-c03a-4917-b79b-d93fe2ec6706)
 
 API para fornecer informações sobre os principais jogos de plataforma da franquia Super Mario Bros, com imagens, vendas, data de lançamento, imagens de gameplay e mais, incluindo também dois filtros (console e ano). Criei essa API para fins de estudos, portanto trata-se de um projeto simples, com poucos end-points e único método (GET). 
@@ -93,3 +95,14 @@ Exemplo de Uso:
 }
 
 ```
+## Tecnologias Usadas ![pngegg (3)](https://github.com/oliveiratales/api-mario-bros/assets/118945743/c04e73f4-1e1a-47c0-937e-8f322bf88007)
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Tales-Python" height="50" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/b46cc95f-8027-4640-9956-a6147404bf73">
+<img align="center" alt="Tales-SQLite" height="50" src="https://github.com/oliveiratales/api-mario-bros/assets/118945743/ec004490-2edf-4c4a-8770-9f46904564b3">
+<img align="center" alt="Tales-Postman" height="50" src="https://github.com/oliveiratales/api-mario-bros/assets/118945743/14d0751a-9151-4dbb-b3ab-d50a897c88a4">
+<img align="center" alt="Tales-Flask" height="50" src="https://github.com/oliveiratales/api-mario-bros/assets/118945743/8f0a8f8f-a5c8-4573-a7fa-5025a674af69">
+</div>
+
+
+
