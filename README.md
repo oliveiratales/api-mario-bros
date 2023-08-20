@@ -99,10 +99,9 @@ Exemplo de Uso:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Tales-Python" height="50" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/b46cc95f-8027-4640-9956-a6147404bf73">
-<img align="center" alt="Tales-SQLite" height="50" src="https://github.com/oliveiratales/api-mario-bros/assets/118945743/ec004490-2edf-4c4a-8770-9f46904564b3">
-<img align="center" alt="Tales-Postman" height="50" src="https://github.com/oliveiratales/api-mario-bros/assets/118945743/14d0751a-9151-4dbb-b3ab-d50a897c88a4">
+<img align="center" alt="Tales-SQLite" height="50" src="https://github.com/oliveiratales/api-mario-bros/assets/118945743/3aff6de0-0be8-424f-ac30-a328a3061e5e">
+<img align="center" alt="Tales-Postman" height="50" src="https://github.com/oliveiratales/api-mario-bros/assets/118945743/7c16fa77-8d13-4ce1-a439-6bc7da16c872">
 <img align="center" alt="Tales-Flask" height="50" src="https://github.com/oliveiratales/api-mario-bros/assets/118945743/8f0a8f8f-a5c8-4573-a7fa-5025a674af69">
 </div>
-
 
 
